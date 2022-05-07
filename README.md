@@ -1,4 +1,4 @@
-# express_api
+# Express API
 
 ## Comandos para inicializar el proyecto
 
